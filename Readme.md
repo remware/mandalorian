@@ -1,6 +1,6 @@
 # The Mandalorian (Bug Hunter)
 
-This is a test
+This is a test for python + flask + mongo stack in web development
 
 ## Setup
 
