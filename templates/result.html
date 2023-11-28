@@ -1,0 +1,11 @@
+Hello, {{ name }}!
+The list of open bugs is {{ pizza }}
+<p>
+With extras:
+<ul>
+{% for extra in extras %}
+<li> {{ extra }}
+{% endfor %}
+</ul>
+Special message: <br>
+{{ message }}
